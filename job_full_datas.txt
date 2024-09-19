@@ -1,0 +1,452 @@
+S.No): 1
+Job Title:Junior Python Developer  /  Senior Python Developer - Chennai
+Company name:elk education consultants private limited
+Company location:Chennai
+Job link:https://www.timesjobs.com/job-detail/junior-python-developer-senior-python-developer-chennai-elk-education-consultants-private-limited-chennai-0-to-3-yrs-jobid-Me__SLASH__YBGdnrSlzpSvf__PLUS__uAgZw==&source=srp
+<<<<<<< HEAD
+Job posted date:Posted 6 days ago
+Job description:Job Description:Perks  & amp; BenefitsSalary: Rs 3 Lacs - 3.5 Lacs p.aKey SkillsPythonDjangoMachine learningNeural networksNumPyGood ProgrammingDeep learningData AnalyticsNetwork securityAnal... More DetailsKeySkills:python  django  machine learning  data analytics  network securityeceteam playersqldatabase 
+=======
+Job posted date:Posted few days ago
+Job description:Job Description:Perks  & amp; BenefitsSalary: Rs 3 Lacs - 3.5 Lacs p.aKey SkillsPythonDjangoMachine learningNeural networksNumPyGood ProgrammingDeep learningData AnalyticsNetwork securityAnal... More DetailsKeySkills:python  django  machine learning  data analytics  network security   ,  ece  ,  team player  ,  sql  ,  database               
+>>>>>>> 1b79c301ce4e669b19be3fd66ed365c9329a57e4
+
+==================================================
+
+S.No): 2
+<<<<<<< HEAD
+Job Title:Full Stack Developer  ( ReactJS ,  NodeJS / Python ,  MongoDB )
+Company name:evince technologies
+Company location:Chennai
+Job link:https://www.timesjobs.com/job-detail/full-stack-developer-reactjs-nodejs-python-mongodb-evince-technologies-chennai-0-to-3-yrs-jobid-j3tk3UYBTyBzpSvf__PLUS__uAgZw==&source=srp
+Job posted date:Posted today
+Job description:Job Description:Roles  & amp; Responsibilities:Write clean ,  maintainable and efficient codeDesign robust ,  scalable and secure featuresContribute in all phases of the development lifecycle... More DetailsKeySkills:pythoncsshtml5ajaxjavascriptjqueryxmljsonhtmlmongodb 
+=======
+Job Title:Python Developer , Python Developer Fresher Urgent Hiring
+Company name:SMASHBIG INC.
+     (More Jobs)
+Company location:(More Jobs) 
+Job link:https://www.timesjobs.com/job-detail/python-developer-python-developer-fresher-urgent-hiring-memphis-infotech-bengaluru-bangalore-chennai-delhi-ncr-hyderabad-secunderabad-mumbai-0-to-3-yrs-jobid-qYHXFTY2jxZzpSvf__PLUS__uAgZw==&source=srp
+Job posted date:Work from Home 
+		    	
+Posted a month ago
+Job description:Job Description:Responsibilities: Develop complex software products that include scale ,  algorithmic complexity ,  and a huge amount of data.  Build cutting-edge scalable systems by writing ... More DetailsKeySkills:Python 
+>>>>>>> 1b79c301ce4e669b19be3fd66ed365c9329a57e4
+
+==================================================
+
+S.No): 3
+<<<<<<< HEAD
+=======
+Job Title:Python Developer Fresher Job in Delhi , Python Developer
+Company name:SMASHBIG INC.
+     (More Jobs)
+Company location:(More Jobs) 
+Job link:https://www.timesjobs.com/job-detail/python-developer-fresher-job-in-delhi-python-developer-memphis-infotech-bengaluru-bangalore-chennai-delhi-ncr-hyderabad-secunderabad-mumbai-0-to-3-yrs-jobid-NwZoRRw12nhzpSvf__PLUS__uAgZw==&source=srp
+Job posted date:Work from Home 
+		    	
+Posted a month ago
+Job description:Job Description:Role and Responsibilities: As a Python Developer Fresher ,  you will be responsible for:  Developing and maintaining Python-based applications   Writing efficient ,  reusable ... More DetailsKeySkills:Python 
+
+==================================================
+
+S.No): 4
+Job Title:Full Stack Developer  ( ReactJS ,  NodeJS / Python ,  MongoDB )
+Company name:evince technologies
+Company location:Chennai
+Job link:https://www.timesjobs.com/job-detail/full-stack-developer-reactjs-nodejs-python-mongodb-evince-technologies-chennai-0-to-3-yrs-jobid-j3tk3UYBTyBzpSvf__PLUS__uAgZw==&source=srp
+Job posted date:Posted few days ago
+Job description:Job Description:Roles  & amp; Responsibilities:Write clean ,  maintainable and efficient codeDesign robust ,  scalable and secure featuresContribute in all phases of the development lifecycle... More DetailsKeySkills:python  ,  css  ,  html5  ,  ajax  ,  javascript  ,  jquery  ,  xml  ,  json  ,  html  ,  mongodb               
+
+==================================================
+
+S.No): 5
+>>>>>>> 1b79c301ce4e669b19be3fd66ed365c9329a57e4
+Job Title:Traineer / Software Engineer Python - J48099
+Company name:SAMPOORNA CONSULTANTS PVT LTD
+     (More Jobs)
+Company location:(More Jobs) 
+Job link:https://www.timesjobs.com/job-detail/traineer-software-engineer-python-j48099-sampoorna-consultants-pvt-ltd-chennai-0-to-1-yrs-jobid-udYUdaK9ax1zpSvf__PLUS__uAgZw==&source=srp
+Job posted date:Posted a month ago
+Job description:Job Description:Freshers or Professionals with less than a year of experience should have passion to work fora start-up with self-motivation to engage in learning new technologies and apply t... More DetailsKeySkills:Python 
+
+==================================================
+
+<<<<<<< HEAD
+S.No): 4
+=======
+S.No): 6
+>>>>>>> 1b79c301ce4e669b19be3fd66ed365c9329a57e4
+Job Title:Senior Business Analyst / Data Engineer - Python  &  Cloud Computing
+Company name:New Global Technologies
+     (More Jobs)
+Company location:(More Jobs) 
+Job link:https://www.timesjobs.com/job-detail/senior-business-analyst-data-engineer-python-cloud-computing-new-global-technologies-ahmedabad-chennai-gurgaon-kolkata-noida-greater-noida-0-to-3-yrs-jobid-__SLASH__Ces9G9tVn5zpSvf__PLUS__uAgZw==&source=srp
+Job posted date:Posted a month ago
+<<<<<<< HEAD
+Job description:Job Description:a. Strong data engineering experience  ( Extract ,  Transform ,  Load ) b. Strong Python coding experiencesc. Experience in working with AWS andor Azured. Ability to build dat... More DetailsKeySkills:Cloud ComputingSaasData Base Administrationbusiness analystsas developersoftware engineerpythonShell Scripting 
+
+==================================================
+
+S.No): 5
+=======
+Job description:Job Description:a. Strong data engineering experience  ( Extract ,  Transform ,  Load ) b. Strong Python coding experiencesc. Experience in working with AWS andor Azured. Ability to build dat... More DetailsKeySkills:                Cloud Computing  ,  Saas  ,  Data Base Administration  ,  business analyst  ,  sas developer  ,  software engineer  ,  python  ,  Shell Scripting               
+
+==================================================
+
+S.No): 7
+>>>>>>> 1b79c301ce4e669b19be3fd66ed365c9329a57e4
+Job Title:Software Testing Engineer
+Company name:mirabilis design inc
+Company location:Chennai
+Job link:https://www.timesjobs.com/job-detail/software-testing-engineer-mirabilis-design-inc-chennai-0-to-3-yrs-jobid-vFfcxM3zZoNzpSvf__PLUS__uAgZw==&source=srp
+<<<<<<< HEAD
+Job posted date:Posted today
+Job description:Job Description:1. Create a folder of all the models that we have created2. Open each file in VisualSim and select the checkbox for Save and uncheck the box for a view3. Write a Python script... More DetailsKeySkills:pythonjavaxml 
+
+==================================================
+
+S.No): 6
+=======
+Job posted date:Posted few days ago
+Job description:Job Description:1. Create a folder of all the models that we have created2. Open each file in VisualSim and select the checkbox for Save and uncheck the box for a view3. Write a Python script... More DetailsKeySkills:python  ,  java  ,  xml               
+
+==================================================
+
+S.No): 8
+>>>>>>> 1b79c301ce4e669b19be3fd66ed365c9329a57e4
+Job Title:Deleivery Lead
+Company name:Headhuntersinc consultancy Private Limited
+Company location:Chennai
+Job link:https://www.timesjobs.com/job-detail/deleivery-lead-headhuntersinc-consultancy-private-limited-chennai-0-to-3-yrs-jobid-2S65i5yylCZzpSvf__PLUS__uAgZw==&source=srp
+Job posted date:Posted few days ago
+<<<<<<< HEAD
+Job description:Job Description:We are looking into interested candidates With Good Hands on experience into Python Development Process ,  For US Based MNC.Work Location : ChennaiPosition : Deleivery Lead  (... More DetailsKeySkills:pythonartificial intelligencedatabasepostgresql 
+
+==================================================
+
+S.No): 7
+Job Title:System Administrator
+Company name:evince technologies
+Company location:Chennai
+Job link:https://www.timesjobs.com/job-detail/system-administrator-evince-technologies-chennai-0-to-3-yrs-jobid-fMNxTXG8Xt9zpSvf__PLUS__uAgZw==&source=srp
+Job posted date:Posted today
+Job description:Job Description:Roles  & amp; Responsibilities:Good working experience in different cloud services offered by Amazon ( AWS )  ,  Google and AzureSetting Up ReactJS ,  Angular ,  Vue ,  NodeJS... More DetailsKeySkills:cloud servicespythonsvnjavagitphp 
+
+==================================================
+
+S.No): 8
+Job Title:Hadoop Developer  /  Sr. Hadoop Developer
+Company name:OASYS Cybernetics Pvt. Ltd
+Company location:Chennai
+Job link:https://www.timesjobs.com/job-detail/hadoop-developer-sr-hadoop-developer-oasys-cybernetics-pvt-ltd-chennai-0-to-3-yrs-jobid-MfVfwasrGtxzpSvf__PLUS__uAgZw==&source=srp
+Job posted date:Posted today
+Job description:Job Description:Job Description Experience in Hadoop ecosystems data processing frameworks including Map Reduce ,  Spark with Scala ,  Python ,  SparkSQL ,  Pandas ,  NumPy toolkits etc.Stron... More DetailsKeySkills:hivepythonsolution architectscalahadoophbase 
+=======
+Job description:Job Description:We are looking into interested candidates With Good Hands on experience into Python Development Process ,  For US Based MNC.Work Location : ChennaiPosition : Deleivery Lead  (... More DetailsKeySkills:python  ,  artificial intelligence  ,  database  ,  postgresql               
+>>>>>>> 1b79c301ce4e669b19be3fd66ed365c9329a57e4
+
+==================================================
+
+S.No): 9
+<<<<<<< HEAD
+Job Title:SENIOR ENGINEER / SPECIALIST  MATLAB and Model based Development  ( MBD )
+Company name:KG TIGER
+Company location:Chennai,  Bengaluru / Bangalore
+Job link:https://www.timesjobs.com/job-detail/senior-engineer-specialist-matlab-and-model-based-development-mbd-kg-tiger-chennai-bengaluru-bangalore-0-to-3-yrs-jobid-dGx2B7yx6uZzpSvf__PLUS__uAgZw==&source=srp
+Job posted date:Posted today
+Job description:Job Description:Company DescriptionABOUT THE COMPANY:A design company that blends technology ,  creativity and engineering to help customers transform ideas into world-class products and solu... More DetailsKeySkills:fundamentalscsignal processingtesting toolsperlpythonclearcase 
+=======
+Job Title:System Administrator
+Company name:evince technologies
+Company location:Chennai
+Job link:https://www.timesjobs.com/job-detail/system-administrator-evince-technologies-chennai-0-to-3-yrs-jobid-fMNxTXG8Xt9zpSvf__PLUS__uAgZw==&source=srp
+Job posted date:Posted few days ago
+Job description:Job Description:Roles  & amp; Responsibilities:Good working experience in different cloud services offered by Amazon ( AWS )  ,  Google and AzureSetting Up ReactJS ,  Angular ,  Vue ,  NodeJS... More DetailsKeySkills:                cloud services  ,  python  ,  svn  ,  java  ,  git  ,  php               
+>>>>>>> 1b79c301ce4e669b19be3fd66ed365c9329a57e4
+
+==================================================
+
+S.No): 10
+<<<<<<< HEAD
+Job Title:AI / ML ,  Chatbot Developer
+Company name:AUGRAY PRIVATE LIMITED
+Company location:Chennai
+Job link:https://www.timesjobs.com/job-detail/ai-ml-chatbot-developer-augray-private-limited-chennai-0-to-3-yrs-jobid-YF49W2Wz__SLASH__TRzpSvf__PLUS__uAgZw==&source=srp
+Job posted date:Posted today
+Job description:Job Description:: AI / ML ,  Chatbot DeveloperAre you an ardent coder thriving to make a mark in AI / ML development? Would you like to build the best in class bots? Would you like to be a pa... More DetailsKeySkills:pythonnode.jsdevopsphpmysqlapimongodb 
+=======
+Job Title:Hadoop Developer  /  Sr. Hadoop Developer
+Company name:OASYS Cybernetics Pvt. Ltd
+Company location:Chennai
+Job link:https://www.timesjobs.com/job-detail/hadoop-developer-sr-hadoop-developer-oasys-cybernetics-pvt-ltd-chennai-0-to-3-yrs-jobid-MfVfwasrGtxzpSvf__PLUS__uAgZw==&source=srp
+Job posted date:Posted few days ago
+Job description:Job Description:Job Description Experience in Hadoop ecosystems data processing frameworks including Map Reduce ,  Spark with Scala ,  Python ,  SparkSQL ,  Pandas ,  NumPy toolkits etc.Stron... More DetailsKeySkills:                hive  ,  python  ,  solution architect  ,  scala  ,  hadoop  ,  hbase               
+>>>>>>> 1b79c301ce4e669b19be3fd66ed365c9329a57e4
+
+==================================================
+
+S.No): 11
+<<<<<<< HEAD
+Job Title:Sr.Pipeline TD
+Company name:bot vfx  ( india )  private limited
+Company location:Chennai
+Job link:https://www.timesjobs.com/job-detail/sr-pipeline-td-bot-vfx-india-private-limited-chennai-0-to-3-yrs-jobid-OPTRNKBJHCxzpSvf__PLUS__uAgZw==&source=srp
+Job posted date:Posted today
+Job description:Job Description:-Develop pipeline and asset management tools to meet immediate ,  show-directed production demands ,  ensuring facility-wide consistency as directed by the show and technical ... More DetailsKeySkills:cdccmysqlmongodbrestpythonproblem solving 
+
+==================================================
+
+S.No): 12
+=======
+>>>>>>> 1b79c301ce4e669b19be3fd66ed365c9329a57e4
+Job Title:Hiring For Gen AI Consultant
+Company name:krazy mantra hr solutions
+Company location:Chennai,  Bengaluru / Bangalore,  Pune,  Hyderabad/Secunderabad,  Kolkata
+Job link:https://www.timesjobs.com/job-detail/hiring-for-gen-ai-consultant-krazy-mantra-hr-solutions-chennai-bengaluru-bangalore-pune-hyderabad-secunderabad-kolkata-0-to-5-yrs-jobid-VL8zpXPL6OlzpSvf__PLUS__uAgZw==&source=srp
+<<<<<<< HEAD
+Job posted date:Posted few days ago
+Job description:Job Description:Hiring For Gen AI ConsultantGen AI ConsultantDesired ProfileSkills : Generative AI ,  Langchain / LLM ,  SQL ,  Python ,  Any cloud ( pref AWS )  ,  Tensorflow / PytorchNotice... More DetailsKeySkills:**   generative ai   langchain  /  llm   sql   python   tensorflow  /  pytorch  **consultant 
+
+==================================================
+
+S.No): 13
+=======
+Job posted date:Posted 6 days ago
+Job description:Job Description:Hiring For Gen AI ConsultantGen AI ConsultantDesired ProfileSkills : Generative AI ,  Langchain / LLM ,  SQL ,  Python ,  Any cloud ( pref AWS )  ,  Tensorflow / PytorchNotice... More DetailsKeySkills:                **   generative ai   langchain  /  llm   sql   python   tensorflow  /  pytorch  **  ,  consultant               
+
+==================================================
+
+S.No): 12
+>>>>>>> 1b79c301ce4e669b19be3fd66ed365c9329a57e4
+Job Title:Release Manager
+Company name:Headhuntersinc consultancy Private Limited
+Company location:Chennai
+Job link:https://www.timesjobs.com/job-detail/release-manager-headhuntersinc-consultancy-private-limited-chennai-0-to-3-yrs-jobid-BmVWkZR8CLxzpSvf__PLUS__uAgZw==&source=srp
+Job posted date:Posted few days ago
+<<<<<<< HEAD
+Job description:Job Description:>Understanding of the overall business process and platform. Responsible for the overall Release process setup in Big data Hadoop environment. Set up Source management and bra... More DetailsKeySkills:pythonsqlrelease manager.nethadoopbig data 
+=======
+Job description:Job Description:>Understanding of the overall business process and platform. Responsible for the overall Release process setup in Big data Hadoop environment. Set up Source management and bra... More DetailsKeySkills:python  ,  sql  ,  release manager  ,  .net  ,  hadoop  ,  big data               
+
+==================================================
+
+S.No): 13
+Job Title:SENIOR ENGINEER / SPECIALIST  MATLAB and Model based Development  ( MBD )
+Company name:KG TIGER
+Company location:Chennai,  Bengaluru / Bangalore
+Job link:https://www.timesjobs.com/job-detail/senior-engineer-specialist-matlab-and-model-based-development-mbd-kg-tiger-chennai-bengaluru-bangalore-0-to-3-yrs-jobid-dGx2B7yx6uZzpSvf__PLUS__uAgZw==&source=srp
+Job posted date:Posted few days ago
+Job description:Job Description:Company DescriptionABOUT THE COMPANY:A design company that blends technology ,  creativity and engineering to help customers transform ideas into world-class products and solu... More DetailsKeySkills:                fundamentals  ,  c    ,  signal processing  ,  testing tools  ,  perl  ,  python  ,  clearcase               
+>>>>>>> 1b79c301ce4e669b19be3fd66ed365c9329a57e4
+
+==================================================
+
+S.No): 14
+<<<<<<< HEAD
+Job Title:Fullstack Developer
+Company name:tesark technologies
+Company location:Chennai
+Job link:https://www.timesjobs.com/job-detail/fullstack-developer-tesark-technologies-chennai-0-to-3-yrs-jobid-TRIm8wSUgCRzpSvf__PLUS__uAgZw==&source=srp
+Job posted date:Posted today
+Job description:Job Description:Fullstack DeveloperFull Stack Developer Job Description We are looking for a Full-stack Developer responsible for managing the interchange of data between the server and the u... More DetailsKeySkills:cssauthoringhostingjquerydatabasegitpythonmobilesvnknockoutjsjavascriptrubyphpangularjs 
+=======
+Job Title:AI / ML ,  Chatbot Developer
+Company name:AUGRAY PRIVATE LIMITED
+Company location:Chennai
+Job link:https://www.timesjobs.com/job-detail/ai-ml-chatbot-developer-augray-private-limited-chennai-0-to-3-yrs-jobid-YF49W2Wz__SLASH__TRzpSvf__PLUS__uAgZw==&source=srp
+Job posted date:Posted few days ago
+Job description:Job Description:: AI / ML ,  Chatbot DeveloperAre you an ardent coder thriving to make a mark in AI / ML development? Would you like to build the best in class bots? Would you like to be a pa... More DetailsKeySkills:python  ,  node.js  ,  devops  ,  php  ,  mysql  ,  api  ,  mongodb               
+>>>>>>> 1b79c301ce4e669b19be3fd66ed365c9329a57e4
+
+==================================================
+
+S.No): 15
+<<<<<<< HEAD
+Job Title:Full Stack Developer | Excrin
+Company name:Excrin Think Labs
+Company location:Chennai
+Job link:https://www.timesjobs.com/job-detail/full-stack-developer-excrin-excrin-think-labs-chennai-0-to-3-yrs-jobid-oDLHAuVpHcpzpSvf__PLUS__uAgZw==&source=srp
+Job posted date:Posted today
+Job description:Job Description:E-CommerceFull Stack Developer  ( Exp : 3-4yrs ) PROFILEJob profile : Full Stack DeveloperProven experience as a full stack developer or similar roleExperience developing ecom... More DetailsKeySkills:cssjquerysecurityjavaapachexmlhtmlmysqlmongodbc#pythonmobilejavascriptnode.js 
+=======
+Job Title:Sr.Pipeline TD
+Company name:bot vfx  ( india )  private limited
+Company location:Chennai
+Job link:https://www.timesjobs.com/job-detail/sr-pipeline-td-bot-vfx-india-private-limited-chennai-0-to-3-yrs-jobid-OPTRNKBJHCxzpSvf__PLUS__uAgZw==&source=srp
+Job posted date:Posted few days ago
+Job description:Job Description:-Develop pipeline and asset management tools to meet immediate ,  show-directed production demands ,  ensuring facility-wide consistency as directed by the show and technical ... More DetailsKeySkills:                c    ,  dcc  ,  mysql  ,  mongodb  ,  rest  ,  python  ,  problem solving               
+>>>>>>> 1b79c301ce4e669b19be3fd66ed365c9329a57e4
+
+==================================================
+
+S.No): 16
+<<<<<<< HEAD
+Job Title:Lead Software Engineer - Machine Learning
+Company name:freshworks technologies ltd
+Company location:Chennai
+Job link:https://www.timesjobs.com/job-detail/lead-software-engineer-machine-learning-freshworks-technologies-ltd-chennai-0-to-3-yrs-jobid-1eXOnk1fhU9zpSvf__PLUS__uAgZw==&source=srp
+Job posted date:Posted today
+Job description:Job Description:Job DescriptionWe are looking for Lead Engineer for the Machine Learning  ( ML )  engineering development team. The primary focus will be to gather requirements from Data Scie... More DetailsKeySkills:algorithmsdsjavaoopssoftware engineersoftware engineeringdata structuresapicrmsanpythonmachine learning 
+=======
+Job Title:Data Engineer  Fresher
+Company name:factana computinhg pvt ltd
+Company location:Chennai,  Bengaluru / Bangalore
+Job link:https://www.timesjobs.com/job-detail/data-engineer-fresher-factana-computinhg-pvt-ltd-chennai-bengaluru-bangalore-0-to-1-yrs-jobid-Ht9hvZYi__SLASH__RhzpSvf__PLUS__uAgZw==&source=srp
+Job posted date:Posted few days ago
+Job description:Job Description::Factana is a leading Industry 4.0 and Industrial IT Solutions provider based out of Bengaluru ,  India with offices in USA. We are on a mission to make IoT and AI technologie... More DetailsKeySkills:                ece  ,  sql  ,  apache  ,  software engineering  ,  python  ,  mq  ,  team player  ,  triggers  ,  sql database               
+>>>>>>> 1b79c301ce4e669b19be3fd66ed365c9329a57e4
+
+==================================================
+
+S.No): 17
+Job Title:Hiring For GCP- Hadoop ecosystem
+Company name:krazy mantra hr solutions
+Company location:Chennai,  Pune,  Gurgaon
+Job link:https://www.timesjobs.com/job-detail/hiring-for-gcp-hadoop-ecosystem-krazy-mantra-hr-solutions-chennai-pune-gurgaon-0-to-5-yrs-jobid-8rIHIkEWPHpzpSvf__PLUS__uAgZw==&source=srp
+Job posted date:Posted few days ago
+<<<<<<< HEAD
+Job description:Job Description:Hiring For GCP- Hadoop ecosystemDesired ProfileSkills : GCP Hadoop ,  Handling batch data processing on Hadoop ecosystem ,  Scala Spark ,  Hive ,  GCP skills like BQ , GCS and... More DetailsKeySkills:gcp hadoopbatch data processingscala sparkhivebig querypythonjava 
+=======
+Job description:Job Description:Hiring For GCP- Hadoop ecosystemDesired ProfileSkills : GCP Hadoop ,  Handling batch data processing on Hadoop ecosystem ,  Scala Spark ,  Hive ,  GCP skills like BQ , GCS and... More DetailsKeySkills:                gcp hadoop  ,   batch data processing  ,   scala spark  ,   hive  ,   big query    ,  python  ,  java               
+>>>>>>> 1b79c301ce4e669b19be3fd66ed365c9329a57e4
+
+==================================================
+
+S.No): 18
+<<<<<<< HEAD
+Job Title:Data Engineer  Fresher
+Company name:factana computinhg pvt ltd
+Company location:Chennai,  Bengaluru / Bangalore
+Job link:https://www.timesjobs.com/job-detail/data-engineer-fresher-factana-computinhg-pvt-ltd-chennai-bengaluru-bangalore-0-to-1-yrs-jobid-Ht9hvZYi__SLASH__RhzpSvf__PLUS__uAgZw==&source=srp
+Job posted date:Posted few days ago
+Job description:Job Description::Factana is a leading Industry 4.0 and Industrial IT Solutions provider based out of Bengaluru ,  India with offices in USA. We are on a mission to make IoT and AI technologie... More DetailsKeySkills:ecesqlapachesoftware engineeringpythonmqteam playertriggerssql database 
+=======
+Job Title:Fullstack Developer
+Company name:tesark technologies
+Company location:Chennai
+Job link:https://www.timesjobs.com/job-detail/fullstack-developer-tesark-technologies-chennai-0-to-3-yrs-jobid-TRIm8wSUgCRzpSvf__PLUS__uAgZw==&source=srp
+Job posted date:Posted few days ago
+Job description:Job Description:Fullstack DeveloperFull Stack Developer Job Description We are looking for a Full-stack Developer responsible for managing the interchange of data between the server and the u... More DetailsKeySkills:                css  ,  authoring  ,  hosting  ,  jquery  ,  database  ,  git  ,  python  ,  mobile  ,  svn  ,  knockoutjs  ,  javascript  ,  ruby  ,  php  ,  angularjs               
+>>>>>>> 1b79c301ce4e669b19be3fd66ed365c9329a57e4
+
+==================================================
+
+S.No): 19
+<<<<<<< HEAD
+Job Title:AI ChatBot Developer
+Company name:Celexsa Technologies Pvt Ltd
+Company location:Chennai
+Job link:https://www.timesjobs.com/job-detail/ai-chatbot-developer-celexsa-technologies-pvt-ltd-chennai-0-to-3-yrs-jobid-5WWjAV57PFVzpSvf__PLUS__uAgZw==&source=srp
+Job posted date:Posted today
+Job description:Job Description:Location: ChennaiQualification: B.E.  /  MCA  /  MS IT  /  BCA  /  B.Sc.  ( Comp.Sci. ) Experience: Minimum 1 yrs experience required in Chatbot Development.gender: Male  /  F... More DetailsKeySkills:pythonnatural language processingcomposermachine learningartificial intelligencesqldockerdjangogitpostgresqlcassandramysqlmongodb 
+=======
+Job Title:Lead Software Engineer - Machine Learning
+Company name:freshworks technologies ltd
+Company location:Chennai
+Job link:https://www.timesjobs.com/job-detail/lead-software-engineer-machine-learning-freshworks-technologies-ltd-chennai-0-to-3-yrs-jobid-1eXOnk1fhU9zpSvf__PLUS__uAgZw==&source=srp
+Job posted date:Posted few days ago
+Job description:Job Description:Job DescriptionWe are looking for Lead Engineer for the Machine Learning  ( ML )  engineering development team. The primary focus will be to gather requirements from Data Scie... More DetailsKeySkills:                algorithms  ,  ds  ,  java  ,  oops  ,  software engineer  ,  software engineering  ,  data structures  ,  api  ,  crm  ,  san  ,  python  ,  machine learning               
+>>>>>>> 1b79c301ce4e669b19be3fd66ed365c9329a57e4
+
+==================================================
+
+S.No): 20
+<<<<<<< HEAD
+Job Title:Salesforce-Fresher
+Company name:centelon
+Company location:Chennai,  Bengaluru / Bangalore,  Pune
+Job link:https://www.timesjobs.com/job-detail/salesforce-fresher-centelon-chennai-bengaluru-bangalore-pune-0-to-3-yrs-jobid-O71Cmg3TnjlzpSvf__PLUS__uAgZw==&source=srp
+Job posted date:Posted 6 days ago
+Job description:Job Description:Location  Pune ,  Bangalore ,  Chennai ,  Kochi ,  TrivandrumJob DescriptionAbility to take the initiative to learn new technologies ,  tools ,  and methodologies through self... More DetailsKeySkills:self studyprogramming fundamentalssalesforce crmproblem solvingcommunication skillspythoncssjavadata structureshtmljavascriptsql 
+=======
+Job Title:Full Stack Developer | Excrin
+Company name:Excrin Think Labs
+Company location:Chennai
+Job link:https://www.timesjobs.com/job-detail/full-stack-developer-excrin-excrin-think-labs-chennai-0-to-3-yrs-jobid-oDLHAuVpHcpzpSvf__PLUS__uAgZw==&source=srp
+Job posted date:Posted few days ago
+Job description:Job Description:E-CommerceFull Stack Developer  ( Exp : 3-4yrs ) PROFILEJob profile : Full Stack DeveloperProven experience as a full stack developer or similar roleExperience developing ecom... More DetailsKeySkills:                css  ,  jquery  ,  security  ,  java  ,  apache  ,  xml  ,  html  ,  mysql  ,  mongodb  ,  c#  ,  python  ,  mobile  ,  javascript  ,  node.js               
+>>>>>>> 1b79c301ce4e669b19be3fd66ed365c9329a57e4
+
+==================================================
+
+S.No): 21
+Job Title:Hiring For HILS Engineer
+Company name:krazy mantra hr solutions
+Company location:Chennai,  Bengaluru / Bangalore
+Job link:https://www.timesjobs.com/job-detail/hiring-for-hils-engineer-krazy-mantra-hr-solutions-chennai-bengaluru-bangalore-0-to-3-yrs-jobid-vI46oVHQhGxzpSvf__PLUS__uAgZw==&source=srp
+Job posted date:Posted few days ago
+<<<<<<< HEAD
+Job description:Job Description:Hiring For HILS EngineerHILS EngineerDesired Profile:Skills: Hardware-In-Loop Benches  ( dSPACE / Opal RT / NI / ETAS etc. )  ,  CAN / LIN Tools ,  vehicle communication proto... More DetailsKeySkills:hardware in loop benchescan  /  lin toolsmanual  /  automated testingelectronic product developmentprogramming  /  scripting skillspythonperl 
+=======
+Job description:Job Description:Hiring For HILS EngineerHILS EngineerDesired Profile:Skills: Hardware-In-Loop Benches  ( dSPACE / Opal RT / NI / ETAS etc. )  ,  CAN / LIN Tools ,  vehicle communication proto... More DetailsKeySkills:                hardware in loop benches   ,   can  /  lin tools   ,   manual  /  automated testing   ,   electronic product development   ,   programming  /  scripting skills   ,  python  ,  perl               
+>>>>>>> 1b79c301ce4e669b19be3fd66ed365c9329a57e4
+
+==================================================
+
+S.No): 22
+Job Title:Hiring For Cybersecurity
+Company name:krazy mantra hr solutions
+Company location:Chennai,  Bengaluru / Bangalore,  Pune,  Hyderabad/Secunderabad
+Job link:https://www.timesjobs.com/job-detail/hiring-for-cybersecurity-krazy-mantra-hr-solutions-chennai-bengaluru-bangalore-pune-hyderabad-secunderabad-0-to-6-yrs-jobid-OJ__SLASH__RoNr4snFzpSvf__PLUS__uAgZw==&source=srp
+Job posted date:Posted few days ago
+<<<<<<< HEAD
+Job description:Job Description:##  Hiring For Cybersecurity### Desired Profile- **Skills:** Cybersecurity Skills ,  threat analysis and risk assessment ,  automotive product development lifecycle  ( ASPICE ... More DetailsKeySkills:cybersecurity skillsthreat analysis and risk assessmentautomotive product development lifecycle   (  aspice  )vehicle network topologypython scriptingcrtoslinux 
+=======
+Job description:Job Description:##  Hiring For Cybersecurity### Desired Profile- **Skills:** Cybersecurity Skills ,  threat analysis and risk assessment ,  automotive product development lifecycle  ( ASPICE ... More DetailsKeySkills:                cybersecurity skills   ,   threat analysis and risk assessment   ,   automotive product development lifecycle   (  aspice  )     ,   vehicle network topology   ,   python scripting   ,  c    ,  rtos  ,  linux               
+>>>>>>> 1b79c301ce4e669b19be3fd66ed365c9329a57e4
+
+==================================================
+
+S.No): 23
+<<<<<<< HEAD
+Job Title:Research Consultant ,  Research counselor in Chennai
+Company name:elk education consultants private limited
+Company location:Chennai
+Job link:https://www.timesjobs.com/job-detail/research-consultant-research-counselor-in-chennai-elk-education-consultants-private-limited-chennai-0-to-1-yrs-jobid-qSSbtu3AgNJzpSvf__PLUS__uAgZw==&source=srp
+Job posted date:Posted 6 days ago
+Job description:Job Description:Perks  & amp; Benefits Salary:Rs 2.5 Lacs - 4 Lacs p.aKey Skills:Good written communicationGood verbal communicationResearchAcademic ResearchGood listenerData processingAnalyt... More DetailsKeySkills:written communicationverbal communicationacademic researchanalytical thinkingdata processingalgorithmsartificial intelligencedigital electronicscloud computingbig datapythonteam playermachine learningconsultant 
+=======
+Job Title:AI ChatBot Developer
+Company name:Celexsa Technologies Pvt Ltd
+Company location:Chennai
+Job link:https://www.timesjobs.com/job-detail/ai-chatbot-developer-celexsa-technologies-pvt-ltd-chennai-0-to-3-yrs-jobid-5WWjAV57PFVzpSvf__PLUS__uAgZw==&source=srp
+Job posted date:Posted few days ago
+Job description:Job Description:Location: ChennaiQualification: B.E.  /  MCA  /  MS IT  /  BCA  /  B.Sc.  ( Comp.Sci. ) Experience: Minimum 1 yrs experience required in Chatbot Development.gender: Male  /  F... More DetailsKeySkills:python  ,  natural language processing  ,  composer  ,  machine learning  ,  artificial intelligence  ,  sql  ,  docker  ,  django  ,  git  ,  postgresql  ,  cassandra  ,  mysql  ,  mongodb               
+>>>>>>> 1b79c301ce4e669b19be3fd66ed365c9329a57e4
+
+==================================================
+
+S.No): 24
+Job Title:BDE  ( Business Development Executive )
+Company name:HashStudioz
+Company location:Lucknow,  Chennai,  Delhi/NCR,  Chandigarh
+Job link:https://www.timesjobs.com/job-detail/bde-business-development-executive-hashstudioz-lucknow-chennai-delhi-ncr-chandigarh-0-to-2-yrs-jobid-ZMA5ITzECrNzpSvf__PLUS__uAgZw==&source=srp
+Job posted date:Posted few days ago
+<<<<<<< HEAD
+Job description:Job Description:****:**Roles  & amp; Responsibilities**:- Strong Coding knowledge in Embedded C like C ,  C   ,  Python.- Willing and adaptable to learn new technologies.- Able to work indivi... More DetailsKeySkills:embedded c codingpython developmentesp boardscripting languageshardware skillsproteuspicgpsatmelzigbeekeilmplab idei2cavrarm 
+=======
+Job description:Job Description:****:**Roles  & amp; Responsibilities**:- Strong Coding knowledge in Embedded C like C ,  C   ,  Python.- Willing and adaptable to learn new technologies.- Able to work indivi... More DetailsKeySkills:                embedded c coding   ,   python development   ,   esp board   ,   scripting languages   ,   hardware skills   ,  proteus  ,  pic  ,  gps  ,  atmel  ,  zigbee  ,  keil  ,  mplab ide  ,  i2c  ,  avr  ,  arm               
+>>>>>>> 1b79c301ce4e669b19be3fd66ed365c9329a57e4
+
+==================================================
+
+S.No): 25
+<<<<<<< HEAD
+Job Title:Test Engineer
+Company name:Statlight Software Solutions
+Company location:Chennai
+Job link:https://www.timesjobs.com/job-detail/test-engineer-statlight-software-solutions-chennai-0-to-3-yrs-jobid-CMnrRXgzO7hzpSvf__PLUS__uAgZw==&source=srp
+Job posted date:Posted today
+Job description:Job Description:We are looking for Test Engineers who will be responsible to ensure continued high quality of the enterprise-class cloud software that is under development. The Test Engineers... More DetailsKeySkills:life cycletest automationtestingtest casestest scriptssqltest engineerseleniumumlwritingagile methodology 
+=======
+Job Title:Research Consultant ,  Research counselor in Chennai
+Company name:elk education consultants private limited
+Company location:Chennai
+Job link:https://www.timesjobs.com/job-detail/research-consultant-research-counselor-in-chennai-elk-education-consultants-private-limited-chennai-0-to-1-yrs-jobid-qSSbtu3AgNJzpSvf__PLUS__uAgZw==&source=srp
+Job posted date:Posted few days ago
+Job description:Job Description:Perks  & amp; Benefits Salary:Rs 2.5 Lacs - 4 Lacs p.aKey Skills:Good written communicationGood verbal communicationResearchAcademic ResearchGood listenerData processingAnalyt... More DetailsKeySkills:                written communication   ,   verbal communication   ,   academic research   ,   analytical thinking   ,   data processing   ,  algorithms  ,  artificial intelligence  ,  digital electronics  ,  cloud computing  ,  big data  ,  python  ,  team player  ,  machine learning  ,  consultant               
+>>>>>>> 1b79c301ce4e669b19be3fd66ed365c9329a57e4
+
+==================================================
+
